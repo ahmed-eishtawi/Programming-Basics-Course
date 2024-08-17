@@ -1,13 +1,26 @@
 # Programming-Basics-Course 👨🏼‍💻✅
 
-repo for the beginners on programming 👨🏼‍💻🔝
+you will learn 
+🔵 TypeScript 🔵
+from zero
 
 /*
-  note 📝
+  code editor  
 */
-You can navigate through the lessons as you progress via GitHub or Git commands ✅
+
+  i recommend vscode
+  download link => https://code.visualstudio.com/download
 
 /*
-  ➡️➡️
+  compiler && package manager
 */
-🟢 I wish you success 🟢
+
+node.js download link => https://nodejs.org/en
+
+TypeScript download link => https://www.typescriptlang.org/download
+
+follow the globally installing command => "npm install -g typescript"
+copy it without quotes
+
+
+🔵 see you next lesson 🔵
